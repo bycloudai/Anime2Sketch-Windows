@@ -15,6 +15,8 @@ Anaconda3 Prompt is used
 
 You can get it [here](https://www.anaconda.com/products/individual)
 
+Or you can run it from Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shandytp/Anime2Sketch-Windows/blob/master/Anime2Sketch.ipynb)
+
 ## Get Started
 ### Installation 
 ```
